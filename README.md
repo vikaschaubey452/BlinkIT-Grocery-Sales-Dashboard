@@ -111,6 +111,10 @@ The dashboard enables users to explore:
 - KPI Development
 - Business Performance Analysis
 
+## 📸 Dashboard Preview
+
+![BlinkIT Grocery Sales Dashboard](BlinkIT-Dashboard.png)
+
 ## 👨‍💻 Author
 
 **Vikas Chaubey**
